@@ -1,11 +1,11 @@
 # 👋 Welcome to Dr. Omrani Mohamed Amine's GitHub Profile
 
-Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
+Hello! I'm Bassem Arbi, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python 🐍, JavaScript 🌐, C++ 💻
-- **Frameworks:** Django 🌟, React ⚛️
+- **Languages:** Python 🐍, JavaScript 🌐
+- **Frameworks:** React ⚛️
 - **Tools:** Git 🦸, Docker 🐳, VSCode 💻
 
 ## 🚀 About Me
