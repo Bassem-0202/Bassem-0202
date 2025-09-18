@@ -10,10 +10,11 @@ Hello! I'm Bassem Arbi, a passionate developer from Tunisia 🇹🇳. Welcome to
 
 ## 🚀 About Me
 
-- 👨‍⚕️ **Profession:** Software Developer & Researcher
-- 🌍 **Location:** Tunisia
-- 📚 **Interests:** AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-- 🎓 **Education:** [Your Degree/Field] from [Your Institution]
+- 👨‍🎓 **Status:** Computer Science Student (3rd year)
+- 🌍 **Location:** Tunisia 🇹🇳
+- 📚 **Interests:** Artificial Intelligence 🤖, Data Science 📊, Web Development 🌐
+- 🎓 **Education:** Bachelor's degree in Computer Science – Engineering of Information Systems
+
 
 ## 📂 Projects
 
@@ -27,10 +28,11 @@ Feel free to explore and contribute!
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website:** [yourwebsite.com](http://yourwebsite.com)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 **Email:** bassemarbipro@gmail.com
+- 💼 **LinkedIn:** [Bassem Arbi](https://www.linkedin.com/in/ton-profil)
+- 🐦 **Twitter (X):** [@bassem_arbi](https://twitter.com/ton-profil) *(optionnel si tu veux garder)*
+- 🌐 **Portfolio/Website:** [bassemarbi.dev](http://bassemarbi.dev) *(si tu en as un)*
+
 
 ## 📝 Blog Posts
 
