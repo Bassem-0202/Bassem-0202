@@ -43,7 +43,7 @@ Check out my latest blog posts on technology and development:
 
 ## 📈 GitHub Stats
 
-![Dr. Omrani Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Bassem Arbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 🎯 Goals
 
